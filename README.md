@@ -2,7 +2,7 @@
 
 Minimal [Spring Boot](https://spring.io/projects/spring-boot) example that sends test mail through [Mailexam](https://mailexam.io/) SMTP via `spring-boot-starter-mail` and `JavaMailSender`.
 
-Based on the [Mailexam Spring Boot guide](https://wiki.mailexam.ru/en/examples/spring/).
+Based on the [Mailexam Spring Boot guide](https://wiki.mailexam.ru/en/examples/spring-boot/).
 
 ## What you need
 
@@ -126,7 +126,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 
 ## See also
 
-- [Mailexam Spring Boot guide (wiki)](https://wiki.mailexam.ru/en/examples/spring/)
+- [Mailexam Spring Boot guide (wiki)](https://wiki.mailexam.ru/en/examples/spring-boot/)
 - [Spring Cloud Alibaba reference implementation](https://github.com/mailexam/Spring-Cloud-Alibaba) — microservices on the same SMTP stack
 - [Ktor reference implementation](https://github.com/mailexam/Ktor) — another JVM framework with Jakarta Mail
 - [Spring Boot — Sending Email](https://docs.spring.io/spring-boot/reference/io/email.html)
