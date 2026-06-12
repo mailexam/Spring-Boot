@@ -131,3 +131,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 - [Ktor reference implementation](https://github.com/mailexam/Ktor) — another JVM framework with Jakarta Mail
 - [Spring Boot — Sending Email](https://docs.spring.io/spring-boot/reference/io/email.html)
 - [Mailexam API documentation](https://mailexam.io/api)
+
+## License
+
+Apache 2.0
