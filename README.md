@@ -127,6 +127,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 ## See also
 
 - [Mailexam Spring Boot guide (wiki)](https://wiki.mailexam.ru/en/examples/spring-boot/)
+- [Quarkus reference implementation](https://github.com/mailexam/Quarkus) — cloud-native JVM framework with `quarkus-mailer`
 - [Spring Cloud Alibaba reference implementation](https://github.com/mailexam/Spring-Cloud-Alibaba) — microservices on the same SMTP stack
 - [Ktor reference implementation](https://github.com/mailexam/Ktor) — another JVM framework with Jakarta Mail
 - [Spring Boot — Sending Email](https://docs.spring.io/spring-boot/reference/io/email.html)
